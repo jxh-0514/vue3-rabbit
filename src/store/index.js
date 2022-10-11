@@ -4,7 +4,7 @@ import { createStore } from 'vuex'
 export default createStore({
   // 数据
   state: {
-    username: 'zs'
+    username: 'zs1'
   },
   // vuex计算属性
   getters: {
