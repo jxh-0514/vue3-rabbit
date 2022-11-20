@@ -1,8 +1,10 @@
 <template>
-  <nav>
+  <!-- <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
-  </nav>
+  </nav> -->
+
+  <!-- 一级路由 -->
   <router-view />
 </template>
 
